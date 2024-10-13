@@ -12,6 +12,9 @@ format:
 
 ## Introduction
 
+For the final project, I propose to replicate Edmiston & Lupyan (2015). This study examines the difference in which verbal labels and environmental sounds activate categories in the mind. I have a background in linguistics and cognitive science, and I am particularly interested in language and auditory processing. I believe this study has interesting insights into how human language is unique compared to other forms of informative inputs (in this case, environmental sound cues) and informs how broad, verbal labels contributes to the efficiency in which humans process language. These findings may have potential implications in how natural language processing technologies, like large language models and speech recognition software, can be built to model more naturalistic language learning.
+
+
 [No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
 
 
