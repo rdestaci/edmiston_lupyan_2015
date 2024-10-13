@@ -1,5 +1,5 @@
 ---
-title: "Replication of Edmiston % Lupyan (2015) by Sample & Sample (20xx, Psychological Science)"
+title: "Replication of Edmiston & Lupyan (2015) by Sample & Sample (20xx, Psychological Science)"
 author: "Reeka Estacio"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
